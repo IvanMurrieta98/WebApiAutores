@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAutZzGVsIUUW9dfEiZtpMFwAAAAACAAAAAAAQZgAAAAEAACAAAABLEukF4WLlNx0Y2ltpQT9/jfrLHPx6NY19R7naHWpLmQAAAAAOgAAAAAIAACAAAAAREzGtIwt2rytXlIdpZPxVmwxziH2nV/wXqf4fjOaNXoAAAAD8TuPYcxUV3jJiUSGzg/aWQd2u/HZfmvPknqXoJLgqnoAYU4p3oZdUv4fr+RecroHscgxrdqqXhrJP5H8i/bKVWW3Di5oSwjJZyJ5xoi0a4iDVM7XGPzIz+grBa/oClirtoYNoQVkc10IYyMfozu+PF1WpKnNr3caZb6ZuXv4u+UAAAACgT38nk1ZZLj+VAgGyHXsvfkw4kWpOP6YIsDZh4u4CJ9tuC75iRWPxDG347I7UCUPtHhAU7R+78l6eJvDs1+Ne</EncryptedPassword>
+    <History>True|2021-11-11T02:06:55.4574002Z;True|2021-11-09T22:26:51.5757697-06:00;True|2021-11-09T21:59:33.8822628-06:00;True|2021-11-09T21:45:04.9945103-06:00;True|2021-11-09T21:30:16.3388175-06:00;True|2021-11-09T20:49:49.9814578-06:00;True|2021-11-09T20:15:29.4691434-06:00;True|2021-11-09T20:06:58.6166847-06:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="WebAPIAutores.AplicationDBContext">
+      <Value>Data Source=tcp:webapiautoresdb.database.windows.net,1433%3bInitial Catalog=WebAPIAutores_db%3bUser Id=IvanMurrieta%40webapiautoresdb%3bPassword=Itmsespinito98</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

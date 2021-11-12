@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\ivanm\source\repos\WebAPIAutores\WebAPIAutores\obj\Release\net5.0\win-x86\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\ivanm\source\repos\WebAPIAutores\WebAPIAutores\obj\Release\net5.0\win-x86\PubTmp\EFSQLScripts\WebAPIAutores.AplicationDBContext.sql" />
+</sitemanifest>

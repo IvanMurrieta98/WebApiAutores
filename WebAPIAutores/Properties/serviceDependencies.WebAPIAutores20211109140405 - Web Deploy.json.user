@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "identityapp1": {
+      "restored": true,
+      "restoreTime": "2021-11-09T20:09:18.5550111Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2021-11-10T01:08:44.6854309Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "64e9f0e1-ba2f-44fd-809a-79cd0fdb5689"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "WepAPIAutores"
+    }
+  }
+}
